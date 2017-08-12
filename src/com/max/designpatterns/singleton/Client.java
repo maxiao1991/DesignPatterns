@@ -8,7 +8,7 @@ public class Client
     public static void main(String[] args)
     {
         Singletion s1 = Singletion.getInstance();
-        s1.setName("max");
+        s1.setName("maxiao");
         Singletion s2 = Singletion.getInstance();
         s2.setName("Sissi");
 
